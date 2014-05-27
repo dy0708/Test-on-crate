@@ -13,3 +13,17 @@
 /data
 /sandbox
 /docs/eggs
+
+*.png
+
+*.html
+
+*.xml
+
+*.properties
+
+*.css
+
+*.js
+
+*.gif
